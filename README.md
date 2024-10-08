@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhumitg07205&label=Profile%20views&color=0e75b6&style=flat" alt="bhumitg07205" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhumitg07205" alt="bhumitg07205" /></a> </p>
+[![An image of @bhumitg07205's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhumitg07205)](https://holopin.io/@bhumitg07205)
 
 - 🔭 I’m currently working on **Brainwave**
 
